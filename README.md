@@ -58,5 +58,7 @@ Vea el índice ordenado por familias lingüísticas.
 ### Notas
 
 (1) Incluye Auvernés, Gascón, Gardiol, Languedociano, Limosín, Provenzal y Vivaro-alpino.
+
 (2) Incluye Faetar
+
 (3) Incluye gallurés y sasarés
