@@ -1,0 +1,1 @@
+# Alguerés (catalán)
